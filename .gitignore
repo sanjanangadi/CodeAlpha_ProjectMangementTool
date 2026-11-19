@@ -1,0 +1,5 @@
+node_modules/
+boardly.db
+boardly.db-shm
+boardly.db-wal
+.env
